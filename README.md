@@ -18,8 +18,11 @@ Classic arcade-style Asteroids game with modern implementation.
 - Unity 2022 LTS
 
 ## How to Play
+Web Build:
+https://matsaraiva.github.io/Asteroids-Project/
+
+In Unity:
 1. Open in Unity
 2. Run MainScene
-3. Use controls to play
 
 Created by Matheus S A A Lima
