@@ -10,9 +10,11 @@ Classic arcade-style Asteroids game with modern implementation.
 ## Features
 - Player ship with physics-based movement
 - Asteroid destruction system
-- Enemy ships that chase and shoot
+- Enemy ships that move and shoot
 - Smart object pooling
 - Score and lives system
+- State Pattern for Game Manager
+- Observer Pattern for Event System
 
 ## Requirements
 - Unity 2022 LTS
